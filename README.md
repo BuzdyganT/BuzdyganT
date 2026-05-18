@@ -39,7 +39,7 @@ Poniższe statystyki pokazują moją aktywność i zaangażowanie w kodowanie na
 
 ## 🔗 Znajdziesz mnie na:
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maciej-raniszewski)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/maciej-raniszewski-8180b4314)
 [![Email](https://img.shields.io/badge/Email-raniszem%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raniszem@gmail.com)
 
 ---
