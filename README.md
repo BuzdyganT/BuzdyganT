@@ -1,5 +1,3 @@
-# Cześć, jestem Maciej! 👋
-
 Jestem studentem II roku Informatyki na Politechnice Gdańskiej oraz Software Developerem. Łączę komercyjne doświadczenie w tworzeniu systemów dla przedsiębiorstw z ogromną pasją do Game Developmentu.
 
 ## 🚀 O mnie
