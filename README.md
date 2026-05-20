@@ -32,7 +32,7 @@ Poniższe statystyki pokazują moją aktywność i zaangażowanie w kodowanie na
 
 <p align="center">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BuzdyganT&theme=tokyonight" alt="Maciej's Streak Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=BuzdyganT&theme=tokyonight" />
 </p>
 
 ---
