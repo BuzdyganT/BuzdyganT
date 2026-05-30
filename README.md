@@ -1,7 +1,7 @@
 Jestem studentem II roku Informatyki na Politechnice Gdańskiej oraz Software Developerem. Łączę komercyjne doświadczenie w tworzeniu systemów dla przedsiębiorstw z ogromną pasją do Game Developmentu.
 
 ## 🚀 O mnie
-- 🎓 Studiuję **Informatykę (B.Sc.)** na Politechnice Gdańskiej.
+- 🎓 Studiuję **Informatykę** na Politechnice Gdańskiej.
 - 💼 Odbyłem staż jako **Software Engineer Intern w Mondi Świecie S.A.**, gdzie rozwijałem wewnętrzny system zarządzania zamówieniami (C# & DevExpress).
 - 🎮 W wolnym czasie projektuję mechaniki rozgrywki 3D i prototypy w **Unreal Engine**, szlifując zaawansowany C++ oraz struktury danych.
 - ⚡ Interesuje mnie czysty kod, wydajna architektura oprogramowania i rozwiązywanie problemów algorytmicznych.
