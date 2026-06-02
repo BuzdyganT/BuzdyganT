@@ -31,8 +31,7 @@ Jestem studentem II roku Informatyki na Politechnice Gdańskiej oraz Software De
 Poniższe statystyki pokazują moją aktywność i zaangażowanie w kodowanie na bieżąco:
 
 <p align="center">
-
-  <img src="https://streak-stats.demolab.com/?user=BuzdyganT&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats-jet-ten.vercel.app/?user=BuzdyganT&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
