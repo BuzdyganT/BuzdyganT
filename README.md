@@ -25,7 +25,8 @@ Jestem studentem II roku Informatyki na Politechnice Gdańskiej oraz Software De
 *Znajomość dodatkowa/akademicka:* DevExpress, HTML, CSS, programowanie zorientowane obiektowo (OOP), projektowanie algorytmów.
 
 ---
-
+## 🎓 Certyfikaty
+[Unreal Engine 5 C++ Game Development - Certyfikat](https://www.udemy.com/certificate/UC-4ab596c7-eb04-4203-a6f8-c9dd2af94da9/)
 ## 📈 Moje statystyki GitHub
 
 Poniższe statystyki pokazują moją aktywność i zaangażowanie w kodowanie na bieżąco:
