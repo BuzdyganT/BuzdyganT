@@ -27,14 +27,6 @@ Jestem studentem II roku Informatyki na Politechnice Gdańskiej oraz Software De
 ---
 ## 🎓 Certyfikaty
 [Unreal Engine 5 C++ Game Development - Certyfikat](https://www.udemy.com/certificate/UC-4ab596c7-eb04-4203-a6f8-c9dd2af94da9/)
-## 📈 Moje statystyki GitHub
-
-Poniższe statystyki pokazują moją aktywność i zaangażowanie w kodowanie na bieżąco:
-
-<p align="center">
-  <img src="https://github-readme-streak-stats-jet-ten.vercel.app/?user=BuzdyganT&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
 ---
 
 ## 🔗 Znajdziesz mnie na:
