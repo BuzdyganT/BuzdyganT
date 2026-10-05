@@ -27,7 +27,7 @@ Jestem studentem III roku Informatyki na Politechnice Gdańskiej oraz Software D
 ---
 ## 🎓 Certyfikaty
 - [Unreal Engine 5 C++ Game Development - Certyfikat](https://www.udemy.com/certificate/UC-4ab596c7-eb04-4203-a6f8-c9dd2af94da9/)
-- [MATLAB Onramp - MathWorks]([https://matlabacademy.mathworks.com/details/matlab-onramp/gettingstarted](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=f62db9f9-93f6-4d30-a4ac-ba77b4fd86a9&))
+- [MATLAB Onramp - MathWorks](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=f62db9f9-93f6-4d30-a4ac-ba77b4fd86a9)
 ---
 
 ## 🔗 Znajdziesz mnie na:
